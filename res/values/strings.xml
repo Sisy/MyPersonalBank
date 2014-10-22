@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExpenseLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="title">Title:</string>
+    <string name="note">Expense Note:</string>
+    <string name="title_activity_add_expense">AddExpense</string>
+    <string name="hint_heading">Please input expense heading.</string>
+    <string name="hint_note">Please input expense note.</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
