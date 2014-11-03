@@ -10,5 +10,6 @@
     <string name="hint_heading">Please input expense heading.</string>
     <string name="hint_note">Please input expense note.</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_facebook_login">Log In with Facebook</string>
 
 </resources>
