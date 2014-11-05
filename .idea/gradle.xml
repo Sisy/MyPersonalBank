@@ -8,9 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HelloFacebookSample" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libraries" />
             <option value="$PROJECT_DIR$/libraries/facebook" />
+            <option value="$PROJECT_DIR$/loginFacebookPractice" />
           </set>
         </option>
       </GradleProjectSettings>
