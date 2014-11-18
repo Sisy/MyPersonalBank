@@ -12,5 +12,7 @@
     <string name="hint_note">Please input expense note.</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_facebook_login">Log In with Facebook</string>
+    <string name="title_activity_event_list_fragment">EventListFragmentActivity</string>
+    <string name="action_logout">Logout</string>
 
 </resources>
